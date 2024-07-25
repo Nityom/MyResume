@@ -9,8 +9,6 @@ This project is a personal resume website built using [React](https://reactjs.or
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
